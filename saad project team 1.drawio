@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T20:28:08.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.8" etag="mwUCTFNw3-sotf60TuDb" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-01T20:41:14.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.8" etag="3FrZ1LHcazycsYI1Vrt1" type="github" pages="6">
   <diagram name="case diagram" id="Gijq7qDvpiLWK-LD0Xt9">
     <mxGraphModel dx="1662" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Rate" id="TMRG63shAnXFpiIUeO6N">
-    <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="b0QggLXN9zcAGgmRZ5NT-0" />
         <mxCell id="b0QggLXN9zcAGgmRZ5NT-1" parent="b0QggLXN9zcAGgmRZ5NT-0" />
@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Manage order" id="ko_hyI5oavHqfkpgsBJA">
-    <mxGraphModel dx="2272" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2512" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N_t8KZCiBVK5XBM3zFKJ-0" />
         <mxCell id="N_t8KZCiBVK5XBM3zFKJ-1" parent="N_t8KZCiBVK5XBM3zFKJ-0" />
@@ -415,7 +415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Maintenence" id="qJ6mB82yMb3jVxj7R7XK">
-    <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ZwOG00JlN9IAfpsnJ3Wa-0" />
         <mxCell id="ZwOG00JlN9IAfpsnJ3Wa-1" parent="ZwOG00JlN9IAfpsnJ3Wa-0" />
@@ -525,7 +525,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XqEc1qlB_4jy2PRk6uaP" name="class ( Mokhles )">
-    <mxGraphModel dx="1374" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Jy8FBLsH5X0j3uAHUraW-0" />
         <mxCell id="Jy8FBLsH5X0j3uAHUraW-1" parent="Jy8FBLsH5X0j3uAHUraW-0" />
@@ -699,8 +699,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AwQCP8Tq8CiIpacxYpXT" name="class ( Adham )">
-    <mxGraphModel dx="1922" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="AwQCP8Tq8CiIpacxYpXT" name="Class Final">
+    <mxGraphModel dx="2295" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i8C9RrYMfysuUdIKURUk-0" />
         <mxCell id="i8C9RrYMfysuUdIKURUk-1" parent="i8C9RrYMfysuUdIKURUk-0" />
