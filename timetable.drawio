@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T16:53:31.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="65DnKI_X_R5N8-VvRKj1" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T16:54:32.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CG1VJ2e2GRi_STPR2Pgc" version="20.6.0" type="github">
   <diagram id="Y_f2DOLCJNhr2vDUj-jW" name="Page-1">
     <mxGraphModel dx="1826" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="400" y="560" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GnjlW4iKzZowOWKKuhrr-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Filter timetable by (grade, department, lecturer, day , etc)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="620" width="250" height="40" as="geometry" />
+          <mxGeometry x="400" y="616" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GnjlW4iKzZowOWKKuhrr-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Notifications &amp;amp; reminders&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="250" height="40" as="geometry" />
